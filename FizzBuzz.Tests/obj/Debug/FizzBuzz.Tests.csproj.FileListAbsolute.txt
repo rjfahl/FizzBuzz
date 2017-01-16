@@ -1,0 +1,104 @@
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.pdb
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\nunit.framework.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\nunit.framework.xml
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\FakeItEasy.pdb
+C:\Users\rfahl\documents\visual studio 2015\Projects\FizzBuzz\FizzBuzz.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\FizzBuzz.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\nunit.framework.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\FizzBuzz.pdb
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\FakeItEasy.pdb
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\nunit.framework.xml
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\csc.exe
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\vbc.exe
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\FakeItEasy.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\FizzBuzz.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\nunit.framework.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\FizzBuzz.pdb
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\FakeItEasy.pdb
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\FakeItEasy.xml
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\nunit.framework.xml
+C:\Workspace\CodeKatas\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Workspace\CodeKatas\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+C:\Workspace\CodeKatas\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+C:\Workspace\CodeKatas\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\csc.exe
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\vbc.exe
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\FakeItEasy.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\nunit.framework.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.pdb
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\FakeItEasy.pdb
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\FakeItEasy.xml
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\nunit.framework.xml
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+C:\Workspace\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb

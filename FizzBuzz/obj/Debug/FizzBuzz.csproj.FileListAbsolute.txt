@@ -1,0 +1,127 @@
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\csc.exe
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\vbc.exe
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\VBCSCompiler.exe
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\FizzBuzz.dll.config
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\FizzBuzz.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\FizzBuzz.pdb
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.AI.Web.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.ApplicationInsights.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.AI.Web.xml
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.ApplicationInsights.xml
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.dll
+c:\Users\rfahl\Documents\Visual Studio 2015\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\csc.exe
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\vbc.exe
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\VBCSCompiler.exe
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\FizzBuzz.dll.config
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\FizzBuzz.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\FizzBuzz.pdb
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.AI.Web.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.AI.Web.xml
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\obj\Debug\FizzBuzz.dll
+C:\Users\rfahl\Documents\Visual Studio 2015\Projects\CodeKatas\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\csc.exe
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\System.Collections.Immutable.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\vbc.exe
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\VBCSCompiler.exe
+C:\Workspace\CodeKatas\FizzBuzz\bin\roslyn\VBCSCompiler.exe.config
+C:\Workspace\CodeKatas\FizzBuzz\bin\FizzBuzz.dll.config
+C:\Workspace\CodeKatas\FizzBuzz\bin\FizzBuzz.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\FizzBuzz.pdb
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.AI.Web.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.AI.WindowsServer.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.ApplicationInsights.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.AI.Web.xml
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.AI.WindowsServer.xml
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.ApplicationInsights.xml
+C:\Workspace\CodeKatas\FizzBuzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Workspace\CodeKatas\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Workspace\CodeKatas\FizzBuzz\obj\Debug\FizzBuzz.dll
+C:\Workspace\CodeKatas\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\csc.exe
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\System.Collections.Immutable.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\vbc.exe
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\VBCSCompiler.exe
+C:\Workspace\FizzBuzz\FizzBuzz\bin\roslyn\VBCSCompiler.exe.config
+C:\Workspace\FizzBuzz\FizzBuzz\bin\FizzBuzz.dll.config
+C:\Workspace\FizzBuzz\FizzBuzz\bin\FizzBuzz.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\FizzBuzz.pdb
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.AI.Web.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.AI.WindowsServer.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.ApplicationInsights.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.AI.Web.xml
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.AI.WindowsServer.xml
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.ApplicationInsights.xml
+C:\Workspace\FizzBuzz\FizzBuzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Workspace\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Workspace\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.dll
+C:\Workspace\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
