@@ -1,5 +1,5 @@
 # FizzBuzz
-### This project contains code for the Fizz Buzz code Kata
+### This project contains code for the Fizz Buzz, TDD driven, code Kata
 
 ---
 ## Languages
