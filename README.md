@@ -1,9 +1,10 @@
 # FizzBuzz
-### This project contains code for the Fizz Buzz, TDD driven, code Kata
+### This project contains the TDD code for a simple Fizz Buzz program done in a variety of languages
 
 ---
-## Languages
+## Languages Implemented
 * C#
+* F#
 * JavaScript
 
 ---
@@ -12,4 +13,3 @@
 * NUnit
 * FakeItEasy
 * Chutzpah
-
