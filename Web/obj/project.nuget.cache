@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FkVQvnsR5Wdu6SBirk6G8NXnXL7unSRb32WnRs+gK2q+eBmfhNU3tQkS9jCcQ/sVnZNELBxmANQzJhnKBOmUDg==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\demo-dojo\\Web\\Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rfahl\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form method="get">
+        <input type="number" name="number" value="@Model.Number">
+    </form>
+    @if(Model.Number > 0){
+        <div>The Fizz Buzz of @Model.Number is @Model.Result.</div>
+    }
+</div>
